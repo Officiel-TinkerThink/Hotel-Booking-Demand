@@ -1,0 +1,101 @@
+country,market_segment,previous_cancellations,booking_changes,deposit_type,days_in_waiting_list,customer_type,reserved_room_type,required_car_parking_spaces,total_of_special_requests
+PRT,Offline TA/TO,0,0,No Deposit,50,Transient-Party,D,0,0
+PRT,Groups,0,0,Non Refund,49,Transient,A,0,0
+PRT,Groups,1,0,Non Refund,0,Transient-Party,A,0,0
+USA,Online TA,0,1,No Deposit,0,Transient,A,0,0
+PRT,Online TA,0,0,No Deposit,0,Transient,A,0,1
+PRT,Offline TA/TO,1,0,Non Refund,0,Transient,A,0,0
+NLD,Offline TA/TO,0,0,No Deposit,0,Transient,D,0,0
+PRT,Online TA,0,1,No Deposit,0,Transient,H,0,0
+DEU,Online TA,0,0,No Deposit,0,Transient-Party,D,0,2
+PRT,Direct,0,0,No Deposit,0,Transient,A,0,0
+PRT,Groups,0,0,No Deposit,0,Transient,A,0,1
+PRT,Groups,0,0,No Deposit,0,Transient-Party,A,0,0
+BEL,Offline TA/TO,0,0,No Deposit,0,Transient-Party,A,0,1
+PRT,Offline TA/TO,0,0,No Deposit,0,Transient,D,0,4
+FRA,Online TA,0,0,No Deposit,0,Transient,A,0,0
+PRT,Groups,0,0,Non Refund,0,Transient,A,0,0
+GBR,Offline TA/TO,0,0,No Deposit,0,Transient,A,0,0
+PRT,Direct,0,0,No Deposit,0,Transient,A,1,0
+BRA,Online TA,0,0,No Deposit,0,Transient,A,0,1
+GBR,Online TA,0,0,No Deposit,0,Transient,D,0,0
+PRT,Groups,0,1,No Deposit,98,Transient-Party,A,0,0
+ISR,Online TA,0,0,No Deposit,0,Transient,A,0,2
+DEU,Online TA,0,2,No Deposit,0,Transient,A,0,0
+PRT,Online TA,0,0,No Deposit,0,Transient,A,1,1
+PRT,Direct,0,1,No Deposit,0,Transient,H,0,0
+ITA,Online TA,0,1,No Deposit,0,Transient,A,0,1
+GBR,Online TA,0,0,No Deposit,0,Transient,E,0,1
+DEU,Online TA,0,0,No Deposit,0,Transient,A,0,0
+PRT,Corporate,1,0,No Deposit,0,Transient,A,0,0
+ZAF,Online TA,0,0,No Deposit,0,Transient,A,0,0
+FRA,Offline TA/TO,0,0,No Deposit,0,Transient,A,0,0
+FRA,Online TA,0,0,No Deposit,0,Transient,A,0,1
+PRT,Offline TA/TO,0,0,No Deposit,0,Group,D,1,0
+PRT,Online TA,0,0,No Deposit,0,Transient,A,0,3
+PRT,Offline TA/TO,0,0,No Deposit,0,Transient-Party,A,0,0
+IRL,Online TA,0,0,No Deposit,0,Transient,D,0,0
+RUS,Online TA,0,0,No Deposit,0,Transient,D,0,0
+PRT,Online TA,0,0,No Deposit,0,Transient,E,0,0
+FRA,Online TA,0,0,No Deposit,0,Transient,A,0,1
+DEU,Online TA,0,0,No Deposit,0,Transient,A,0,0
+DEU,Offline TA/TO,0,0,No Deposit,0,Transient,A,0,0
+DEU,Groups,0,0,Non Refund,0,Transient-Party,A,0,0
+EST,Offline TA/TO,0,0,No Deposit,0,Transient,A,0,1
+PRT,Corporate,0,0,No Deposit,0,Transient,A,0,0
+CHE,Online TA,0,0,No Deposit,0,Transient,D,0,4
+PRT,Groups,0,0,No Deposit,0,Transient-Party,A,0,0
+FRA,Offline TA/TO,0,0,No Deposit,0,Transient-Party,B,0,1
+IRL,Online TA,0,0,No Deposit,0,Transient,F,1,0
+ESP,Online TA,0,1,No Deposit,0,Transient,A,0,1
+FRA,Online TA,0,0,No Deposit,0,Transient,D,0,1
+GBR,Offline TA/TO,0,0,No Deposit,0,Transient-Party,A,0,1
+PRT,Groups,1,0,Non Refund,0,Contract,A,0,0
+PRT,Offline TA/TO,0,0,No Deposit,0,Transient-Party,A,0,0
+ITA,Online TA,0,0,No Deposit,0,Transient,D,0,1
+GBR,Groups,0,1,No Deposit,0,Transient-Party,A,1,0
+PRT,Direct,0,1,No Deposit,0,Transient,C,0,0
+FRA,Offline TA/TO,0,0,No Deposit,0,Transient,A,0,0
+PRT,Offline TA/TO,0,0,Non Refund,0,Transient,A,0,0
+GBR,Offline TA/TO,0,0,No Deposit,0,Contract,D,0,2
+IND,Online TA,0,0,No Deposit,0,Transient,A,0,1
+ITA,Online TA,0,0,No Deposit,0,Transient,A,0,0
+PRT,Corporate,1,0,No Deposit,0,Transient,A,0,0
+NLD,Online TA,0,0,No Deposit,0,Transient,D,0,1
+IRL,Online TA,0,2,No Deposit,0,Transient,D,0,0
+FRA,Offline TA/TO,0,0,No Deposit,0,Transient,A,0,0
+PRT,Groups,0,0,No Deposit,58,Transient-Party,A,0,0
+ITA,Online TA,0,0,No Deposit,0,Transient,A,0,1
+PRT,Groups,1,0,Non Refund,0,Transient,A,0,0
+FRA,Offline TA/TO,0,1,No Deposit,0,Transient-Party,A,0,2
+PRT,Offline TA/TO,0,0,No Deposit,0,Transient-Party,A,0,0
+ESP,Online TA,0,0,No Deposit,0,Transient,A,0,1
+PRT,Groups,1,0,Non Refund,0,Contract,A,0,0
+PRT,Groups,0,0,Non Refund,44,Transient,A,0,0
+PRT,Offline TA/TO,19,0,Non Refund,0,Transient,A,0,0
+PRT,Online TA,0,0,No Deposit,0,Transient,A,0,0
+ESP,Online TA,0,0,No Deposit,0,Transient,D,1,0
+ESP,Groups,0,0,No Deposit,47,Transient-Party,A,0,0
+ITA,Online TA,0,0,No Deposit,0,Transient,A,1,1
+FRA,Online TA,0,0,No Deposit,0,Transient,A,0,1
+PRT,Corporate,1,0,No Deposit,0,Transient,A,0,0
+IRL,Online TA,0,1,No Deposit,0,Transient,D,0,1
+DNK,Online TA,0,0,No Deposit,0,Contract,A,0,2
+BEL,Online TA,0,3,No Deposit,0,Transient,D,0,0
+GBR,Online TA,0,0,No Deposit,0,Transient,A,0,0
+LUX,Online TA,0,0,No Deposit,0,Transient,F,1,2
+GBR,Offline TA/TO,0,0,No Deposit,0,Contract,A,0,0
+GBR,Online TA,0,0,No Deposit,0,Transient,A,0,2
+GBR,Offline TA/TO,0,0,No Deposit,0,Transient,A,0,0
+PRT,Corporate,0,0,No Deposit,0,Transient,A,0,2
+IRL,Online TA,0,0,No Deposit,0,Transient,A,0,1
+FRA,Online TA,0,0,No Deposit,0,Transient,A,0,0
+NLD,Direct,0,0,No Deposit,0,Transient,A,0,2
+NLD,Groups,0,8,No Deposit,0,Transient-Party,A,0,0
+PRT,Offline TA/TO,0,0,Non Refund,0,Transient,A,0,0
+USA,Online TA,0,0,No Deposit,0,Transient,A,0,0
+PRT,Offline TA/TO,0,0,No Deposit,0,Transient-Party,A,0,1
+PRT,Offline TA/TO,0,0,No Deposit,0,Transient,A,0,0
+MAR,Online TA,0,0,No Deposit,0,Transient,C,0,2
+ITA,Corporate,0,0,No Deposit,0,Transient-Party,A,0,0
+PRT,Online TA,0,1,No Deposit,0,Transient,A,0,0
