@@ -1,0 +1,12 @@
+## requirement
+pip
+jupyter
+db-dtypes
+pandas==2.1.4
+scikit-learn==1.2.2
+google-cloud-aiplatform
+google-cloud-bigquery
+google-cloud-storage
+google-auth
+numpy==1.24.0
+category-encoders==2.6.3
