@@ -58,10 +58,12 @@ The author assumes several things in this case:
 ### Data
 
 - **data_hotel_booking_demand.csv**: the dataset for the machine to learn to build model
+- **data_test**: the dataset for the machine to predict in deployment
 
 ### Notebooks
 
 - **main.ipynb**: Jupyter notebook for data analysis and model training.
+- **deployment.ipynb**: Jupyter notebook for deployment and predict data test.
 
 ### Source code
 
