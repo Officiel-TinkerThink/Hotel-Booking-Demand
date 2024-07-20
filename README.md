@@ -69,7 +69,8 @@ The author assumes several things in this case:
 - **models/**: Contains model and model_transformer generated during analysis.
 
 ### Reports
-
+- [Presentation Video](https://drive.google.com/file/d/18M2Y1ZwpKjwqCRrV6nhswizwmpNW0G3G/view?usp=sharing)
+- [Power Point Document](https://drive.google.com/file/d/1KqR5SqcH_6qbOps70QpGeba8XBds_bLc/view?usp=sharing)
 
 ### Other Files
 
